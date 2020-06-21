@@ -7,3 +7,5 @@
 /captures
 fabric.properties
 crashlytics.properties
+Fabric.apiKey
+Fabric.buildSecret
